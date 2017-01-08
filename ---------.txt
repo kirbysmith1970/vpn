@@ -1,0 +1,13 @@
+--------- beginning of main
+01-07 19:58:56.109 11527 11527 E KeyVPNService: (main) SettingsClient: SQLiteException = android.database.sqlite.SQLiteCantOpenDatabaseException: unknown error (code 14): Could not open database
+01-07 19:58:59.199 11527 11527 D KeyVPNService: MocanaCrypto_allocate: [AES]
+01-07 19:58:59.199 11527 11527 D KeyVPNService: MocanaCrypto_initRngCtx
+01-07 19:58:59.199 11527 11527 D KeyVPNService: MocanaCrypto_getxxx
+01-07 19:58:59.199 11527 11527 D KeyVPNService: MocanaCrypto_getyyy
+01-07 19:58:59.249 11527 11527 I KeyVPNService: (main) KeyVPNService: clearState
+01-07 19:58:59.269 11527 11527 I KeyVPNService: (main) KeyVPNService: Revision: r1161
+01-07 19:58:59.279 11527 11555 W KeyVPNService: MSS: DEBUG CONSOLE has been enabled.
+01-07 19:58:59.289 11527 11555 I KeyVPNService: EAP: Initialized EAP 
+01-07 19:58:59.289 11527 11555 I KeyVPNService: EAP: Created EAP Instance
+01-07 19:58:59.379 11527 11555 I KeyVPNService: IKE: VPN client listening for data
+01-07 19:58:59.519 11527 11527 I KeyVPNService: (main) KeyVPNService: Revision: r1161
